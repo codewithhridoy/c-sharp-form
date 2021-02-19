@@ -1,0 +1,15 @@
+E:\Coding\Dot Net\PersonalInformationApp\PersonalInformationApp\bin\Debug\netcoreapp3.1\PersonalInformationApp.exe
+E:\Coding\Dot Net\PersonalInformationApp\PersonalInformationApp\bin\Debug\netcoreapp3.1\PersonalInformationApp.deps.json
+E:\Coding\Dot Net\PersonalInformationApp\PersonalInformationApp\bin\Debug\netcoreapp3.1\PersonalInformationApp.runtimeconfig.json
+E:\Coding\Dot Net\PersonalInformationApp\PersonalInformationApp\bin\Debug\netcoreapp3.1\PersonalInformationApp.runtimeconfig.dev.json
+E:\Coding\Dot Net\PersonalInformationApp\PersonalInformationApp\bin\Debug\netcoreapp3.1\PersonalInformationApp.dll
+E:\Coding\Dot Net\PersonalInformationApp\PersonalInformationApp\bin\Debug\netcoreapp3.1\PersonalInformationApp.pdb
+E:\Coding\Dot Net\PersonalInformationApp\PersonalInformationApp\obj\Debug\netcoreapp3.1\PersonalInformationApp.csprojAssemblyReference.cache
+E:\Coding\Dot Net\PersonalInformationApp\PersonalInformationApp\obj\Debug\netcoreapp3.1\PersonalInformationApp.Form1.resources
+E:\Coding\Dot Net\PersonalInformationApp\PersonalInformationApp\obj\Debug\netcoreapp3.1\PersonalInformationApp.csproj.GenerateResource.cache
+E:\Coding\Dot Net\PersonalInformationApp\PersonalInformationApp\obj\Debug\netcoreapp3.1\PersonalInformationApp.AssemblyInfoInputs.cache
+E:\Coding\Dot Net\PersonalInformationApp\PersonalInformationApp\obj\Debug\netcoreapp3.1\PersonalInformationApp.AssemblyInfo.cs
+E:\Coding\Dot Net\PersonalInformationApp\PersonalInformationApp\obj\Debug\netcoreapp3.1\PersonalInformationApp.csproj.CoreCompileInputs.cache
+E:\Coding\Dot Net\PersonalInformationApp\PersonalInformationApp\obj\Debug\netcoreapp3.1\PersonalInformationApp.dll
+E:\Coding\Dot Net\PersonalInformationApp\PersonalInformationApp\obj\Debug\netcoreapp3.1\PersonalInformationApp.pdb
+E:\Coding\Dot Net\PersonalInformationApp\PersonalInformationApp\obj\Debug\netcoreapp3.1\PersonalInformationApp.genruntimeconfig.cache
